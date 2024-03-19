@@ -9,3 +9,5 @@ feature/1
 feature/1.2
 ---
 feature/3
+---
+feature/4
